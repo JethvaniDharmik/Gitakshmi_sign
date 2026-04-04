@@ -1,0 +1,13 @@
+{
+  "_id": "69d0ef04598f7a3caf067ec2",
+  "name": "Media Marek",
+  "email": "mediamarek2025@gmail.com",
+  "role": "superadmin",
+  "companyId": null,
+  "company": null,
+  "isActive": true,
+  "lastLoginAt": "2026-04-04T11:28:25.489Z",
+  "createdAt": "2026-04-04T10:59:16.936Z",
+  "updatedAt": "2026-04-04T11:54:48.549Z",
+  "__v": 0
+}
