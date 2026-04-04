@@ -38,7 +38,7 @@ const syncAdmin = async () => {
     
     process.exit(0);
   } catch (e) {
-    console.error(error);
+    console.error(e);
     process.exit(1);
   }
 };
